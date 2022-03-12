@@ -37,3 +37,4 @@ This is a demo application that uploads, analyses and persists FX Deals in the D
 # Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Please make sure to update tests as appropriate.
+
